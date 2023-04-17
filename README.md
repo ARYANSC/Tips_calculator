@@ -1,4 +1,4 @@
-# bill_splitter
+# tips_calculator
 
 A new Flutter project.
 
